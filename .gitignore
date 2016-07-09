@@ -1,5 +1,5 @@
-config.js
-npm-debug.log
-venv/*
-node_modules/*
-.pyc
+**/config.js
+**/npm-debug.log
+**/venv/*
+**/node_modules/*
+**/*.pyc
