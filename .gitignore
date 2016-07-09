@@ -2,3 +2,4 @@ config.js
 npm-debug.log
 venv/*
 node_modules/*
+.pyc
