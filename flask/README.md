@@ -1,7 +1,7 @@
 # App
 
 ## Initial setup
-Do this first [http://www.pyimagesearch.com/2015/06/15/install-opencv-3-0-and-python-2-7-on-osx/]()
+Do this first (http://www.pyimagesearch.com/2015/06/15/install-opencv-3-0-and-python-2-7-on-osx/)
 
 Clone repo, then `cd` into this folder and run `. venv/bin/activate` and `pip install -r requirements.txt`.
 
