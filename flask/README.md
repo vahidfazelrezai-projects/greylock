@@ -5,7 +5,7 @@
 
 (Mac) OpenCV is at `/usr/local/Cellar/opencv3/3.1.0_3`
 
-Clone repo, then `cd` into this folder and run `. venv/bin/activate` and `pip install -r requirements.txt`.
+Clone repo, then `cd` into this folder and run `virtualenv venv` then `. venv/bin/activate` and `pip install -r requirements.txt`.
 
 `ln -s /usr/local/Cellar/opencv3/3.1.0_3/lib/python2.7/site-packages/cv.so venv/lib/python2.7/site-packages/cv.so`
 `ln -s /usr/local/Cellar/opencv3/3.1.0_3/lib/python2.7/site-packages/cv.py venv/lib/python2.7/site-packages/cv.py`
